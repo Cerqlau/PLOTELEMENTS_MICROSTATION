@@ -19,9 +19,9 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 ### 🔧 Pré-configurações
 
 PREPARAR O EXCEL A SER UTILIZADA COMO "BASE DE DADOS": 
-1.	Copie para a coluna A  todos as coordenadas UTM Leste ;
-2.	Copie para a coluna B  todos as coordenadas UTM Norte ;
-3.	Copie para a coluna C  todos as coordenadas UTM Norte ;
+1.	Insira na coluna A  todas as coordenadas UTM Leste ;
+2.	Insira na coluna B  todas as coordenadas UTM Norte ;
+3.	Insira na coluna C  todas as profundidades em acordo com a quantidade de pontos;
 4.	Salve e em um local que possa buscar depois, aconselho o desktop para facilitar o acesso. Anexo ao projeto deixei uma planilha modelo “Cotas Batimétricas “. 
 
 Carregamento do projeto: 
@@ -41,8 +41,6 @@ Carregamento do projeto:
 4.	Quando o código solicitar carregue a planilha base de dados;
 5.	Selecione os elementos a ser copiados e o texto (limitei a somente um objeto cell e um text para facilitar o controle de erros)
 6.	Be Happy !!!   
-
-
 
 
 ## 📦 Desenvolvimento
