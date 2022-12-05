@@ -1,4 +1,4 @@
-# PLOTELEMENTS_TRACKSUERVEY
+# PLOTELEMENTS_MICROSTATION_TRACKSURVEY
 
 Este projeto foi desenvolvido em linguagem Visua Basic para automatizar a plotagem de elementos CELL e TEXT no programa Microstation V8i. 
 O intuito é facilitar a plotagem dos elementos batimetria, sucata entre outros, em arquivos com extensão DGN. Ele reproduz doi elementos bases selecionados, mantendo o offset entre eles.
